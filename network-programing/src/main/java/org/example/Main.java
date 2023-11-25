@@ -1,11 +1,10 @@
 package org.example;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
+        PoolWebLog poolWebLog = new PoolWebLog();
         for(String s : args){
-           InetAddressUsage.IPcharecterstics(s);
+           poolWebLog.logExecutor(s);
         }
     }
 }
