@@ -49,5 +49,5 @@ This project adheres to the following RFCs for standardized network programming:
 
 Before using the TCP 3-way handshake feature, make sure to have the following prerequisites:
 
-- JnetPcap library: [Link to JnetPcap](https://github.com/jnetpcap/jnetpcap) 
+- JnetPcap library: [Link to JnetPcap](https://www.jnetpcap.com/) (this is similar to tap interface of linux kernel)
 
