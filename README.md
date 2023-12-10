@@ -1,6 +1,6 @@
 ### A network programming project showcasing various features for efficient network operations.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 ## Features
 
